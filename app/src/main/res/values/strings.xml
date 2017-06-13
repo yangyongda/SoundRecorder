@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SoundRecorder</string>
+    <string name="pause_recording_button">暂停</string>
+    <string name="record_prompt">按下下面按钮开始录音</string>
+    <string name="toast_recording_start">录音开始</string>
+    <string name="record_in_progress">Recording</string>
+    <string name="default_file_name">My_Record</string>
+    <string name="toast_recording_finish">录音保存到</string>
+    <string name="action_settings">设置</string>
+    <string name="recorder">录音机</string>
+    <string name="action_file">文件列表</string>
+    <string name="resume_recording_button">恢复</string>
+    <string name="dialog_file_share">分享</string>
+    <string name="dialog_file_rename">重命名</string>
+    <string name="dialog_file_delete">删除</string>
+    <string name="dialog_action_cancel">取消</string>
+    <string name="dialog_action_ok">确定</string>
+    <string name="toast_file_exists">文件 %1$s 已经存在. 请选择一个其他的文件名.</string>
+    <string name="toast_file_delete">%1$s 删除成功</string>
+    <string name="dialog_text_delete">确定要删除这个文件吗？</string>
+    <string name="send_to">分享到</string>
+    <string name="high">高质量音质</string>
+    <string name="about">关于</string>
+    <string name="setting">设置</string>
+</resources>
